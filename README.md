@@ -184,6 +184,13 @@ This task demonstrates:
 
 - Data export workflows
 
+## 📬 Contact / Updates
+This repository will be updated daily as tasks are completed.
+Each task folder includes its own documentation and execution notes.
+
+**Developer:** John Henry Garcia Jr  
+**Location:** Pearland, Texas  
+**Reach me here: jhgarci4@asu.edu
 - Clean, maintainable Python architecture
 
 This project fulfills all requirements for Task 8: Web Scraper.
