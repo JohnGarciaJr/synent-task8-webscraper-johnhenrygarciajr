@@ -6,6 +6,8 @@ This project is my submission for **Task 8: Web Scraper**, where the objective w
 
 I built a fully interactive **Book Category Web Scraper** for the website *Books to Scrape*, featuring category selection, pagination handling, data preview, and export to JSON/CSV.
 
+Link to Video Submission:
+[Task 8 — Web Scraper Video](https://www.linkedin.com/posts/johngarciajr83_internship-python-programming-ugcPost-7461168747844849664-nDRh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaOpwwB33Y0_oTjzePpZVr26EEozGnel7I)
 ---
 
 ## 🚀 Features
